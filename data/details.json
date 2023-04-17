@@ -1,0 +1,142 @@
+[
+    {
+
+    "itemID":"01",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"HTML Basic",
+    "id":"ff01",
+    "img":"https://eoffelde.sirv.com/HTML/jackson-sophat-wUbNvDTsOIc-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"01",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"HTML5",
+    "id":"ff02",
+    "img":"https://eoffelde.sirv.com/HTML/jackson-sophat-_t-l5FFH8VA-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"02",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"CSS3",
+    "id":"ff03",
+    "img":"https://eoffelde.sirv.com/CSS/kobu-agency-ipARHaxETRk-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"02",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"CSS Advance",
+    "id":"ff04",
+    "img":"https://eoffelde.sirv.com/CSS/pankaj-patel-6JVlSdgMacE-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"02",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"CSS Trick",
+    "id":"ff05",
+    "img":"https://eoffelde.sirv.com/CSS/pawel-czerwinski-wtljKRoxsZE-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"03",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"Node js",
+    "id":"ff06",
+    "img":"https://eoffelde.sirv.com/Js/roman-synkevych-vXInUOv1n84-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"03",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"JavaScript",
+    "id":"ff07",
+    "img":"https://eoffelde.sirv.com/Js/max-duzij-qAjJk-un3BI-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"03",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"ES6",
+    "id":"ff08",
+    "img":"https://eoffelde.sirv.com/Js/juanjo-jaramillo-mZnx9429i94-unsplash.jpg?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"Motion Graphics",
+    "id":"ff09",
+    "img":"https://eoffelde.sirv.com/Others/course-6.png?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"Photography",
+    "id":"ff10",
+    "img":"https://eoffelde.sirv.com/Others/course-5.png?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"AI",
+    "id":"ff11",
+    "img":"https://eoffelde.sirv.com/Others/course-4.png?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"Programming",
+    "id":"ff12",
+    "img":"https://eoffelde.sirv.com/Others/course-3.png?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"Coding",
+    "id":"ff13",
+    "img":"https://eoffelde.sirv.com/Others/course-2.png?w=248",
+    "price":50
+
+    },
+    {
+
+    "itemID":"04",
+    "body":"Unlock your full potential and achieve your goals with our transformative course. Gain the skills and knowledge you need to thrive in your personal and professional life. Join now and take the first step towards a brighter future.",
+    "Title":"UI/UX design",
+    "id":"ff14",
+    "img":"https://eoffelde.sirv.com/Others/course-1.png?w=248",
+    "price":50
+
+    }
+]
